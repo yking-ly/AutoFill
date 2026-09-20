@@ -34,7 +34,7 @@ Read the complete [Privacy Policy](PRIVACY.md).
 
 ## Reporting a problem or suggesting an improvement
 
-Please [open a GitHub Issue](https://github.com/vking-ly/AutoFill/issues) if:
+Please [open a GitHub Issue](https://github.com/yking-ly/AutoFill/issues) if:
 
 - A website or webpage is not scanned correctly.
 - A field is detected but is not autofilled correctly.
@@ -43,7 +43,7 @@ Please [open a GitHub Issue](https://github.com/vking-ly/AutoFill/issues) if:
 
 When reporting a website issue, include the site name, the type of field that failed, and the steps to reproduce it. Do not include passwords, API keys, resumes, personal contact details, or screenshots containing sensitive information.
 
-Contributions are welcome. Fork the repository, make your change, and open a [pull request](https://github.com/vking-ly/AutoFill/pulls).
+Contributions are welcome. Fork the repository, make your change, and open a [pull request](https://github.com/yking-ly/AutoFill/pulls).
 
 ## Future scope
 
@@ -57,18 +57,6 @@ Planned directions include:
 - Multiple profiles for personal, work, and freelance use.
 - Form history and fill review.
 
-## Project structure
-
-```text
-manifest.json
-background.js
-content.js
-content.css
-popup/popup.html
-popup/popup.js
-popup/popup.css
-icons/
-```
 
 ## License
 
