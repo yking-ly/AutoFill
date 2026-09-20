@@ -49,4 +49,4 @@ This policy may be updated when AutoFill’s data practices or features change. 
 
 ## Contact and support
 
-For support, compatibility reports, and feature suggestions, please use the [AutoFill GitHub Issues](https://github.com/vking-ly/AutoFill/issues) page. Contributions can be submitted through [GitHub pull requests](https://github.com/vking-ly/AutoFill/pulls).
+For support, compatibility reports, and feature suggestions, please use the [AutoFill GitHub Issues](https://github.com/yking-ly/AutoFill/issues) page. Contributions can be submitted through [GitHub pull requests](https://github.com/yking-ly/AutoFill/pulls).
